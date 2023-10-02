@@ -2,6 +2,7 @@ img {
   width: 30%;
   outline-style: solid;
   color: #BB86FC;
+  /* This code below allows it so the img automatically adjust to fit the size of the screen */
   max-width: 100%;
   height: auto;
 
