@@ -1,4 +1,27 @@
 img {
-  height: 30%;
   width: 30%;
+  outline-style: solid;
+  color: #BB86FC;
+  max-width: 100%;
+  height: auto;
+
+}
+
+body {
+  background-color: #404040;
+  color: aqua;
+}
+h1, h2 {
+  color: #BB86FC;
+  text-decoration: underline;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+p {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a {
+  color: #BB86FC;
 }
